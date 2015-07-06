@@ -20,16 +20,16 @@
 			"Rev": "10a8a81f63d5c52a0032d539733586701098f036"
 		},
 		{
-			"ImportPath": "github.com/mesos/mesos-go/mesosproto",
-			"Rev": "049b57bd9bd0550056f26b5ced76f36a820243eb"
+			"ImportPath": "github.com/barthoda/mesos-go/mesosproto",
+			"Rev": "10a8a81f63d5c52a0032d539733586701098f036"
 		},
 		{
-			"ImportPath": "github.com/mesos/mesos-go/mesosutil",
-			"Rev": "049b57bd9bd0550056f26b5ced76f36a820243eb"
+			"ImportPath": "github.com/barthoda/mesos-go/mesosutil",
+			"Rev": "10a8a81f63d5c52a0032d539733586701098f036"
 		},
 		{
-			"ImportPath": "github.com/mesos/mesos-go/upid",
-			"Rev": "049b57bd9bd0550056f26b5ced76f36a820243eb"
+			"ImportPath": "github.com/barthoda/mesos-go/upid",
+			"Rev": "10a8a81f63d5c52a0032d539733586701098f036"
 		},
 		{
 			"ImportPath": "github.com/miekg/dns",
